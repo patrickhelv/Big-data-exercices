@@ -1,6 +1,6 @@
 # LSH
 
-Example implementation of the LSH algorithm.
+Example implementation of the LSH (Locality Sensitive Hashing) algorithm.
 
 ### Requirements
 
