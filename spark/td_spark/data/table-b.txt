@@ -1,0 +1,6 @@
+Key B1 B2
+1 T T
+1 R K
+2 G V
+5 B S
+9 T K
